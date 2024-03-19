@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "akku@niraj.com",
+      "name": "Akanksha",
+      "password": "akku@123",
+      "id": 1
+    },
+    {
+      "email": "dcvfbgdcfgsdfgb",
+      "name": "sadfvf",
+      "password": "sdfghn",
+      "id": 2
+    },
+    {
+      "email": "akku@123.com",
+      "name": "Akankha",
+      "password": "akku@123",
+      "id": 3
+    },
+    {
+      "email": "niraj@test.com",
+      "name": "Niraj",
+      "password": "niraj@123",
+      "id": 4
+    },
+    {
+      "email": "chotaniraj@123.com",
+      "name": "Chota niraj",
+      "password": "niraj",
+      "id": 6
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "address": "Mumbai",
+      "contact": "12344567"
+    },
+    {
+      "id": 2,
+      "name": "McDonalds",
+      "address": "Mumbai",
+      "contact": "87654534567"
+    },
+    {
+      "id": 1,
+      "name": "Jumbo King",
+      "address": "Mumbai",
+      "contact": "2415525874"
+    },
+    {
+      "name": "Akku snacks",
+      "contact": "2345676543",
+      "address": "Mumbai",
+      "id": 3
+    }
+  ]
+}
